@@ -1,0 +1,13 @@
+﻿gh.exe : 
+所在位置 行:1 字符: 185
++ ... lyContinue; & $gh auth login --hostname github.com --git-protocol htt ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+! One-time code (E853-DC7E) copied to clipboard
+Open this URL to continue in your web browser: https://github.com/login/device
+✓ Authentication complete.
+- gh config set -h github.com git_protocol https
+✓ Configured git protocol
+✓ Logged in as YYYYYK06
